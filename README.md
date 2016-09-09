@@ -10,12 +10,12 @@ emergency directory for the PH
 - [ ] testing
 
 # contributing
- name     | description                           | contributor  
- --       | ---                                   | --
- init     | the first steps of the site           | - @wilhelmpaulm
- search   | search feature for emergency numbers  | -
- research | research on contact details           | -
- map      | map overview for location searches    | -
+name | description | contributor
+---- | ----------- | -----------
+init | the first steps of the site | @wilhelmpaulm
+search | search feature for emergency numbers | -
+research | research on contact details | -
+map | map overview for location searches | -
 
 # creators
 Wilhelm Martinez
